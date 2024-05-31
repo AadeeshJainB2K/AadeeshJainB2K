@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AadeeshJainB2K
 - 👀 I’m interested in Full Stack Web Development & Freelancing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React , MySQL
 - 📫 Conatct Me at aadeeshjain15@gmail.com
   
 
