@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AadeeshJain
 - 👀 I’m interested in , Problem Solvnig , Full Stack Web Development , DSA , & Placement at FAANG
-- 🌱 I’m currently learning React , MySQL
+- 🌱 I’m currently learning Next JS , MySQL & Mern Stack .
 - 📫 Conatct Me at aadeeshjain15@gmail.com
   
 <!---
