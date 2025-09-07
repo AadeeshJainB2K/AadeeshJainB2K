@@ -21,8 +21,12 @@
 
 ## 📌 About Me  
 
+**Socials**  
 <a href="https://www.linkedin.com/in/aadeesh-jain-74ba9a2b7/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/aadeesh._.jain/?hl=en" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/@aadeeshjain1" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
@@ -30,6 +34,13 @@
 <a href="https://x.com/Aadeesh_Jain_1" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+
+**Coding & Tools**  
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mysql,sqlite,cpp,c,ts,vite,python,git,github,npm,powershell,arduino"/>
+</a>  
+
+**Projects & Platforms**  
 <a href="https://github.com/AadeeshJainB2K" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
