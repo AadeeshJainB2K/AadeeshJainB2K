@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Aadeesh Jain 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadeesh-jain-74ba9a2b7/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rodrigopaesdev/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aadeesh._.jain/?hl=en)
 
 💻 I’m a **Front-End Developer and Designer** passionate about creating digital experiences that combine aesthetics and functionality.  
 
