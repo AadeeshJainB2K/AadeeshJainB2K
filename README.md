@@ -1,6 +1,11 @@
 # 👋 Hey! I'm Aadeesh Jain 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aadeesh-jain-74ba9a2b7/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aadeesh._.jain/?hl=en)
+
+<a href="https://www.linkedin.com/in/aadeesh-jain-74ba9a2b7/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/aadeesh._.jain/?hl=en" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
 
 💻 I’m a **Front-End Developer and Designer** passionate about creating digital experiences that combine aesthetics and functionality.  
 
@@ -9,8 +14,10 @@
 - 🎨 I believe that good design paired with clean, well-structured code can truly make a difference.  
 - 🚀 My goal is always to deliver solutions that positively impact both people and businesses.  
 
+## 🛠️ Technologies & Tools  
 
- ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,scss,tailwind,react,nodejs,php,gulp,github,wordpress,figma)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=html,css,js,scss,tailwind,react,nodejs,php,gulp,github,wordpress,figma"/>
+</a>  
 
-💡 *"Success is the sum of small efforts repeated day in and day out."*
+💡 *"Success is the sum of small efforts repeated day in and day out."*  
