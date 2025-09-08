@@ -35,11 +35,6 @@
   <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
-**Coding & Tools**  
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mysql,sqlite,cpp,c,ts,vite,python,git,github,npm,powershell,arduino"/>
-</a>  
-
 **Projects & Platforms**  
 <a href="https://github.com/AadeeshJainB2K" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
