@@ -4,7 +4,7 @@
 
 - 🌐 I’m a **Front-End Developer** exploring **Full-Stack Web Development**  
 - 📚 Learning **DSA in C++** to build strong **logic and problem-solving skills**  
-- 🤖 Enthusiast in **IoT** – created multiple **Arduino projects** and deployed **Home Assistant with ESPHome** in my house  
+- 🤖 Enthusiast in **IoT** – created multiple **Arduino projects** and deployed **Home Assistant with ESPHome** in my home
 - 🖨️ Interested in **3D Printing**, experimenting with digital designs brought into the physical world  
 - 🏸 I also play **badminton professionally**, which keeps me disciplined, focused, and competitive  
 - 🎨 I love blending **creativity and technology** to make useful, **user-friendly solutions**  
