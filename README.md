@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Aadeesh Jain 
 
-💻 I’m **Aadeesh Jain**, a **15-year-old Class 11 student** passionate about **technology, innovation, and creativity**.  
+💻 I’m **Aadeesh Jain**, a **16-year-old Class 11 student** passionate about **technology, innovation, and creativity**.  
 
 - 🌐 I’m a **Front-End Developer** exploring **Full-Stack Web Development**  
 - 📚 Learning **DSA in C++** to build strong **logic and problem-solving skills**  
