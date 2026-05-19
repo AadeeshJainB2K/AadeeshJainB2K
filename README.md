@@ -34,14 +34,14 @@
 <a href="https://www.linkedin.com/in/aadeesh-dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/aadeesh._.jain/?hl=en" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 <a href="https://www.youtube.com/@aadeesh-dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <a href="https://x.com/aadeesh_dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/aadeesh._.jain/?hl=en" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 **Projects & Platforms**  
