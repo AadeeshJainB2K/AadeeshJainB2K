@@ -2,8 +2,8 @@
 
 💻 I'm **Aadeesh Jain**, a **16-year-old Class 12 student** bridging the gap between **software architecture and physical hardware**. My core philosophy: build **accessible, privacy-centric, and highly optimized technology** — without massive budgets or expensive infrastructure.
 
-- 🏅 **INSPIRE-MANAK Awardee** — Selected nationwide by the **Dept. of Science & Technology, Govt. of India** & NIF. Awarded a **₹10,000 innovation grant** to build a hardware/software prototype for district & state-level exhibitions
 - 🥉 **2nd Runner-Up @ AI Vidya Setu National Hackathon** — organized by IHFC (IIT Delhi), CoGrad & KVS. Engineered **PrepNova**, an offline-first AI educational platform, out of thousands of participants nationally
+- 🏅 **INSPIRE-MANAK Awardee** — Selected nationwide by the **Dept. of Science & Technology, Govt. of India** & NIF. Awarded a **₹10,000 innovation grant** to build a hardware/software prototype for district & state-level exhibitions
 - 🌐 **Full-Stack Engineer** — Building production apps with **Next.js**, local AI models, PostgreSQL & Drizzle ORM. Freelancing since March 2024
 - 🔌 **IoT & Hardware Engineer** — Built a **zero-latency smart home under ₹2,000** using custom-soldered ESP8266 boards, ESPHome & Home Assistant. Reverse-engineered LG AC IR protocols from scratch
 - 💻 **Self-repaired a 14-year-old laptop** and run it as a **24/7 headless local server** — the brain of my entire smart home ecosystem
