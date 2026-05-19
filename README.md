@@ -15,24 +15,32 @@
 ## 🛠️ Technologies & Tools  
 
 <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mysql,sqlite,cpp,c,ts,vite,python,git,github,npm,powershell,arduino"/>
-</a>  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,python,cpp,c,arduino,git,github,npm,powershell&perline=15"/>
+</a>
+<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,tailwind,linux,vercel,bash,postman,figma&perline=15"/>
+</a>
+
+**🔌 IoT & Hardware**  
+<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Espressif%20(ESP8266)-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>  
 
 ---
 
 ## 📌 About Me  
 
 **Socials**  
-<a href="https://www.linkedin.com/in/aadeesh-jain-74ba9a2b7/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/aadeesh-dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/aadeesh._.jain/?hl=en" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/@aadeeshjain1" target="_blank" rel="noopener noreferrer">
+<a href="https://www.youtube.com/@aadeesh-dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://x.com/Aadeesh_Jain_1" target="_blank" rel="noopener noreferrer">
+<a href="https://x.com/aadeesh_dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
