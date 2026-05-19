@@ -24,7 +24,7 @@
 **🔌 IoT & Hardware**  
 <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Espressif%20(ESP8266)-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Espressif%20(ESP32&ESP8266)-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>  
 
 ---
 
