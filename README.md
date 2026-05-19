@@ -1,13 +1,14 @@
-# 👋 Hey! I'm Aadeesh Jain 
+# 👋 Hey! I'm Aadeesh Jain
 
-💻 I’m **Aadeesh Jain**, a **16-year-old Class 12th student** passionate about **technology, innovation, and creativity**.  
+💻 I'm **Aadeesh Jain**, a **16-year-old Class 12 student** bridging the gap between **software architecture and physical hardware**. My core philosophy: build **accessible, privacy-centric, and highly optimized technology** — without massive budgets or expensive infrastructure.
 
-- 🌐 I’m a **Front-End Developer** exploring **Full-Stack Web Development**  
-- 📚 Learning **DSA in C++** to build strong **logic and problem-solving skills**  
-- 🤖 Enthusiast in **IoT** – created multiple **Arduino projects** and deployed **Home Assistant with ESPHome** in my home
-- 🖨️ Interested in **3D Printing**, experimenting with digital designs brought into the physical world  
-- 🏸 I also play **badminton professionally**, which keeps me disciplined, focused, and competitive  
-- 🎨 I love blending **creativity and technology** to make useful, **user-friendly solutions**  
+- 🏅 **INSPIRE-MANAK Awardee** — Selected nationwide by the **Dept. of Science & Technology, Govt. of India** & NIF. Awarded a **₹10,000 innovation grant** to build a hardware/software prototype for district & state-level exhibitions
+- 🥉 **2nd Runner-Up @ AI Vidya Setu National Hackathon** — organized by IHFC (IIT Delhi), CoGrad & KVS. Engineered **PrepNova**, an offline-first AI educational platform, out of thousands of participants nationally
+- 🌐 **Full-Stack Engineer** — Building production apps with **Next.js**, local AI models, PostgreSQL & Drizzle ORM. Freelancing since March 2024
+- 🔌 **IoT & Hardware Engineer** — Built a **zero-latency smart home under ₹2,000** using custom-soldered ESP8266 boards, ESPHome & Home Assistant. Reverse-engineered LG AC IR protocols from scratch
+- 💻 **Self-repaired a 14-year-old laptop** and run it as a **24/7 headless local server** — the brain of my entire smart home ecosystem
+- 🏸 Competed at the **55th KVS Regional Sports Meet (Badminton, Under-19)** — 6th Position
+- 📚 Currently exploring **local AI model fine-tuning**, IR protocol reverse-engineering & hardware-software integration
 
 ---
 
@@ -36,10 +37,10 @@
 </a>
 
 **Projects & Platforms**  
-<a href="https://github.com/AadeeshJainB2K" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/aadeesh-dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-💡 *"Success is the sum of small efforts repeated day in and day out."*  
+💡 *"Good logic can give e-waste a second life — and solve real problems while doing it."*  
